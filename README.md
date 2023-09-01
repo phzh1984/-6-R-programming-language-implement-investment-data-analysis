@@ -1,4 +1,4 @@
-# -6-R-programming-language-implement-investment-data-analysis
+#R programming language implements investment data analysis
 
 This project deals with modeling the selection of stocks, bonds, and cash to make up an investment portfolio. 
 
